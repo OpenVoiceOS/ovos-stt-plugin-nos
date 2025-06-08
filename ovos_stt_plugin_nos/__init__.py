@@ -2,6 +2,7 @@ from typing import Optional
 
 from ovos_plugin_manager.templates.stt import STT
 from ovos_stt_plugin_wav2vec import Wav2VecSTT
+from ovos_utils import classproperty
 from speech_recognition import AudioData
 
 
@@ -17,8 +18,8 @@ class NosSTT(STT):
     def execute(self, audio: AudioData, language: Optional[str] = None):
         return self.stt.execute(audio, language)
 
-    @property
-    def available_languages(self) -> set:
+    @classproperty
+    def available_languages(cls) -> set:
         return {"gl"}
 
 
