@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.2a3](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/tree/0.2.2a3) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/compare/0.2.2a2...0.2.2a3)
+
+**Merged pull requests:**
+
+- chore\(deps\): update actions/setup-python action to v6 [\#11](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/pull/11) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [0.2.2a2](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/tree/0.2.2a2) (2025-12-19)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/compare/0.2.2a1...0.2.2a2)
