@@ -1,12 +1,36 @@
 # Changelog
 
-## [0.2.1a1](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/tree/0.2.1a1) (2025-06-08)
+## [0.2.2a4](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/tree/0.2.2a4) (2025-12-19)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/compare/0.2.0...0.2.1a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/compare/0.2.2a3...0.2.2a4)
 
 **Merged pull requests:**
 
-- fix: compatibility with ovos-plugin-manager 1.X.X [\#3](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/pull/3) ([JarbasAl](https://github.com/JarbasAl))
+- chore\(deps\): update pilosus/action-pip-license-checker action to v3 [\#14](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/pull/14) ([renovate[bot]](https://github.com/apps/renovate))
+
+## [0.2.2a3](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/tree/0.2.2a3) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/compare/0.2.2a2...0.2.2a3)
+
+**Merged pull requests:**
+
+- chore\(deps\): update actions/setup-python action to v6 [\#11](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/pull/11) ([renovate[bot]](https://github.com/apps/renovate))
+
+## [0.2.2a2](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/tree/0.2.2a2) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/compare/0.2.2a1...0.2.2a2)
+
+**Merged pull requests:**
+
+- chore\(deps\): update actions/checkout action to v6 [\#10](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/pull/10) ([renovate[bot]](https://github.com/apps/renovate))
+
+## [0.2.2a1](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/tree/0.2.2a1) (2025-12-18)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/compare/0.2.1...0.2.2a1)
+
+**Merged pull requests:**
+
+- chore: Configure Renovate [\#5](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/pull/5) ([renovate[bot]](https://github.com/apps/renovate))
 
 
 
