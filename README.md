@@ -1,16 +1,31 @@
+> **This repository is archived. No further updates will be made.**
+> This plugin has been superseded by [ovos-stt-plugin-wav2vec](https://github.com/OpenVoiceOS/ovos-stt-plugin-wav2vec2). See the migration guide below.
+
 # OVOS Nos STT
 
-## Install
+OpenVoiceOS STT plugin for Galician using the [Proxecto Nós](https://github.com/proxectonos) wav2vec2 model.
 
-`pip install ovos-stt-plugin-nos`
+## Migration Guide
 
-## Configuration
+Install the parent plugin:
+
+```bash
+pip install ovos-stt-plugin-wav2vec
+```
+
+Update your `mycroft.conf`:
 
 ```json
 "stt": {
-    "module": "ovos-stt-plugin-nos"
+    "module": "ovos-stt-plugin-wav2vec",
+    "ovos-stt-plugin-wav2vec": {
+        "model": "proxectonos/Nos_ASR-wav2vec2-large-xlsr-53-gl-with-lm",
+        "lang": "gl"
+    }
 }
 ```
+
+This is the exact model this plugin was using internally.
 
 ## Credits
 
