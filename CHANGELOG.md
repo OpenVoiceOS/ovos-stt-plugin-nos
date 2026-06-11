@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.2a7](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/tree/0.2.2a7) (2026-06-11)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/compare/0.2.2a6...0.2.2a7)
+
+**Merged pull requests:**
+
+- docs: add TigreGotico attribution, link ILENIA [\#19](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/pull/19) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.2.2a6](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/tree/0.2.2a6) (2025-12-19)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/compare/0.2.2a5...0.2.2a6)
@@ -47,42 +55,6 @@
 **Merged pull requests:**
 
 - chore: Configure Renovate [\#5](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/pull/5) ([renovate[bot]](https://github.com/apps/renovate))
-
-## [0.2.1](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/tree/0.2.1) (2025-06-08)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/compare/0.2.1a1...0.2.1)
-
-**Merged pull requests:**
-
-- Release 0.2.1a1 [\#4](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/pull/4) ([github-actions[bot]](https://github.com/apps/github-actions))
-
-## [0.2.1a1](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/tree/0.2.1a1) (2025-06-08)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/compare/0.2.0...0.2.1a1)
-
-**Merged pull requests:**
-
-- fix: compatibility with ovos-plugin-manager 1.X.X [\#3](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/pull/3) ([JarbasAl](https://github.com/JarbasAl))
-
-## [0.2.0](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/tree/0.2.0) (2024-09-29)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/compare/0.2.0a1...0.2.0)
-
-**Merged pull requests:**
-
-- Release 0.2.0a1 [\#2](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/pull/2) ([github-actions[bot]](https://github.com/apps/github-actions))
-
-## [0.2.0a1](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/tree/0.2.0a1) (2024-09-29)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/compare/0.1.0...0.2.0a1)
-
-**Merged pull requests:**
-
-- feat:cuda support [\#1](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/pull/1) ([JarbasAl](https://github.com/JarbasAl))
-
-## [0.1.0](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/tree/0.1.0) (2024-09-28)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-stt-plugin-nos/compare/41df63059e4ec98a95f49432a0920732ecc837e0...0.1.0)
 
 
 
